@@ -1,5 +1,8 @@
 _repo: The-Parthenon-at-Athens-Greece-and-at-Nashville-Tennessee_58665
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58665-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wilson, Benjamin Franklin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48780'
     url: http://www.gutenberg.org/2009/agents/48780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58665#The-Parthenon-at-Athens-Greece-and-at-Nashville-Tennessee
 gutenberg_issued: '2019-01-09'
 gutenberg_type: Text
 identifiers:
