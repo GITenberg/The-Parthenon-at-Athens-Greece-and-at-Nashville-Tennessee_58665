@@ -1,0 +1,23 @@
+_repo: The-Parthenon-at-Athens-Greece-and-at-Nashville-Tennessee_58665
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wilson, Benjamin Franklin
+    gutenberg_agent_id: '50091'
+    url: http://www.gutenberg.org/2009/agents/50091
+  - agent_name: III, William H. Matthews
+    gutenberg_agent_id: '48780'
+    url: http://www.gutenberg.org/2009/agents/48780
+description: ''
+gutenberg_issued: '2019-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Parthenon at Athens, Greece and at Nashville, Tennessee
+url: http://www.gutenberg.org/ebooks/58665
